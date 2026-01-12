@@ -1,4 +1,6 @@
 import math
+
+# Circle calculations
 radious = float(input('Enter the radious of the circle: '))
 
 circumference = 2 * math.pi * radious
@@ -9,6 +11,7 @@ area = math.pi * radious**2
 
 print(f'The area of the circle is: {round(area, 2)}cm^2')
 
+# Hypotenuse calculation
 a = float(input('Enter side A: '))
 b = float(input('Enter side B: '))
 
