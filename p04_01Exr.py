@@ -7,8 +7,8 @@ circumference = 2 * math.pi * radious
 
 print(f'THe circumference of the circle is: {round(circumference, 2)}cm')
 
+# Area calculation
 area = math.pi * radious**2
-
 print(f'The area of the circle is: {round(area, 2)}cm^2')
 
 # Hypotenuse calculation
