@@ -10,14 +10,14 @@ This repository contains beginner-to-intermediate Python practice scripts, exerc
 - `p02.py` - Intro to variables and basic data types.
 - `p03.py` - User input basics.
 - `p03_01Exr.py` - Mad-libs style adjective/noun exercise.
-- `p03_02EExr.py` - Rectangle area calculation exercise.
+- `p03_02EExr.py` - Rectangle area calculation exercise (filename kept as-is from repo).
 - `p03_03Exr.py` - Simple shopping/quantity/total price exercise.
 - `p04.py` - Math module and arithmetic operation examples.
 - `p04_01Exr.py` - Circle measurement exercise using `math`.
 - `p05.py` - Conditional statements (`if`, `elif`, `else`) practice.
 - `p06_Calculator.py` - Basic command-line calculator (`+`, `-`, `*`, `/`).
 - `p07_Weight_Converter.py` - Weight converter between units.
-- `p08_Temp_Convertion.py` - Temperature converter between Celsius and Fahrenheit.
+- `p08_Temp_Convertion.py` - Temperature converter between Celsius and Fahrenheit (filename spelling kept as-is from repo).
 - `p09.py` - Logical operators and condition checks.
 - `p10.py` - String slicing and indexing basics.
 - `p10_Exr.py` - Username slicing/formatting exercise.
@@ -61,4 +61,3 @@ This repository contains beginner-to-intermediate Python practice scripts, exerc
 - `p39.py` - File reading/path handling example.
 - `p40.py` - Time/date or timing-related practice script.
 - `tempCodeRunnerFile.py` - Temporary runner/debug file created by the editor.
-
